@@ -1,2 +1,2 @@
-hello git, i'm sooyong. nice to meet u
+hello git, i'm sooyong. i'm studying git!
 hello again~
